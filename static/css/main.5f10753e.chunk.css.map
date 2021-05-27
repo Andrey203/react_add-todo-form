@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","User.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CCFA,WACE,eAAgB,CAChB,mBAAoB,CACpB,aACF","file":"main.5f10753e.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n",".user-name {\n  font-size: 1.2em;\n  font-family: fantasy;\n  color: rgb(68, 30, 30);\n}\n"]}
